@@ -1,6 +1,6 @@
 # Overview
 
-In the following tutorials, I have explored various concepts related to Real-Time Operating Systems (RTOS) and specifically FreeRTOS. These tutorials are based on practical examples implemented on STM32 microcontrollers.
+In the following examples, I have explored various concepts related to Real-Time Operating Systems (RTOS) and specifically FreeRTOS. These tutorials are based on practical examples implemented on STM32 microcontrollers.
 
 ## Introduction
 
